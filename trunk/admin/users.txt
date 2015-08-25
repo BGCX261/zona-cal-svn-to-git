@@ -1,0 +1,2 @@
+master,password,0
+drake,weinert,1

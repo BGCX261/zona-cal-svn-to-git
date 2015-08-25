@@ -1,0 +1,10 @@
+#summary how things are going
+
+= Introduction =
+
+things are coming along. the hardest part is parsing the code that has already been written to suit my fancy. i think i need to eliminate a lot of it.
+
+
+= Details =
+
+so far, well, who cares.
